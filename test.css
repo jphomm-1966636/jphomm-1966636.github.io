@@ -1,0 +1,63 @@
+#Header{
+	border: solid 8px white;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+#Header h1 {
+	font-size: 60px;
+	color: #FFBC00;
+	font-weight: bold;
+	font-family: "Passion One", cursive;
+	outline-style: double;
+}
+
+body {
+	background-image: url('dark.jpg');
+}
+
+p {
+	color: white;
+	font-family: "Arial"
+	font-weight: bold;
+	text-shadow: 2px 2px #ff0000;
+}
+
+#LeftNav {
+	width: 400px;
+	padding-bottom: 8px;
+	margin-bottom: 10px;
+	border: solid 8px white;
+	text-align: center;
+	float: left;
+}
+
+ul.a {
+	list-style-type: hiragana-iroha;
+}
+
+#Content {
+	width: 700px;
+	padding-bottom: 15px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid 8px white;
+	text-align: center;
+}
+
+#Footer {
+	text-align: auto;
+	border: solid 8px white;
+}
+
+div {
+	background-color: #8E41D5;
+	resize: both;
+	overflow: auto;
+	box-shadow: 5px 10px #888888;
+
+}
